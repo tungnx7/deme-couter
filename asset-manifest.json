@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/deme-couter/static/css/main.e6c13ad2.css",
+    "main.js": "/deme-couter/static/js/main.f4419487.js",
+    "static/js/787.a9ece189.chunk.js": "/deme-couter/static/js/787.a9ece189.chunk.js",
+    "index.html": "/deme-couter/index.html",
+    "main.e6c13ad2.css.map": "/deme-couter/static/css/main.e6c13ad2.css.map",
+    "main.f4419487.js.map": "/deme-couter/static/js/main.f4419487.js.map",
+    "787.a9ece189.chunk.js.map": "/deme-couter/static/js/787.a9ece189.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.f4419487.js"
+  ]
+}
